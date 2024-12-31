@@ -1,0 +1,10 @@
+[
+    {
+        "package": "resourcecode",
+        "url": "https://github.com/Resourcecode-project/r-resourcecode"
+    },
+    {
+        "package": "resourcecodedata",
+        "url": "https://github.com/Resourcecode-project/r-resourcecodedata"
+    }
+]
